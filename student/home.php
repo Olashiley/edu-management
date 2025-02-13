@@ -1,0 +1,1 @@
+<h1>Welcome to <?php echo $_settings->info('name') ?>, it is a pleasure!</h1>
